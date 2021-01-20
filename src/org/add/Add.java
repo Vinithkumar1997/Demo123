@@ -7,5 +7,8 @@ public class Add {
 		System.out.println(d);
 		String name = "Vinith";
 		System.out.println(name);
+		int c = a + b;
+		System.out.println(c);
+		System.out.println("A Branch");
 	}
 }
