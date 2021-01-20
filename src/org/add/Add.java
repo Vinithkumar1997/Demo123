@@ -5,5 +5,7 @@ public class Add {
 		int a = 10, b = 20;
 		int d = a + b;
 		System.out.println(d);
+		String name = "Vinith";
+		System.out.println(name);
 	}
 }
