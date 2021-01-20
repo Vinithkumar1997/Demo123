@@ -7,5 +7,7 @@ public class Add {
 		System.out.println(d);
 		String name = "Vinith";
 		System.out.println(name);
+		long mobNo = 8825974058l;
+		System.out.println(mobNo);
 	}
 }
